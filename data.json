@@ -1,0 +1,114 @@
+{
+    "students": [
+        {
+            "id": 1001,
+            "name": "ali",
+            "family": "rezaei",
+            "courses": [
+                {
+                    "id": 1001,
+                    "score": 0
+                },
+                {
+                    "id": 1002,
+                    "score": 18
+                },
+                {
+                    "id": 1003,
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "id": 1002,
+            "name": "reza",
+            "family": "alinia",
+            "courses": [
+                {
+                    "id": 1001,
+                    "score": 0
+                },
+                {
+                    "id": 1002,
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "id": 1003,
+            "name": "ahmad",
+            "family": "hassani",
+            "courses": [
+                {
+                    "id": 1001,
+                    "score": 19
+                },
+                {
+                    "id": 1002,
+                    "score": 0
+                },
+                {
+                    "id": 1003,
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "id": 1001,
+            "name": "shamim",
+            "family": "rezania",
+            "courses": []
+        }
+    ],
+    "teachers": [
+        {
+            "id": 1001,
+            "name": "hassan",
+            "family": "rezapour",
+            "courses": [
+                1001,
+                1003
+            ]
+        },
+        {
+            "id": 1002,
+            "name": "alireza",
+            "family": "taghinia",
+            "courses": [
+                1001,
+                1002
+            ]
+        },
+        {
+            "id": 1003,
+            "name": "mahmoud",
+            "family": "alipour",
+            "courses": [
+                1001,
+                1002,
+                1003
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "id": 1001,
+            "name": "python",
+            "units": 3,
+            "score": 0.0
+        },
+        {
+            "id": 1002,
+            "name": "java",
+            "units": 4,
+            "score": 0.0
+        },
+        {
+            "id": 1003,
+            "name": "c#",
+            "units": 2,
+            "score": 0.0
+        }
+    ],
+    "classrooms": []
+}
